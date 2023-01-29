@@ -1,0 +1,34 @@
+Will have them saved in a a database
+Will write a webpage and android app that can be used to pull them up
+Will develop multiple lists that can be used for this
+
+Install for mysql on ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+	https://pimylifeup.com/raspberry-pi-mysql/
+
+
+tweepy doc: https://docs.tweepy.org/en/v3.5.0/index.html
+
+using sql db: https://stackoverflow.com/questions/372885/how-do-i-connect-to-a-mysql-database-in-python
+
+using placeholder with the sql upload: https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-transaction.html
+
+great example for explanation on stream: https://gist.github.com/sparack/e8021298115f4a1289a637e25f284daf
+
+
+how it gets all the tweet info with the call: https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
+
+
+
+Figure out a way to store the whole twitter object in the database
+
+Figure out a better way to store information in the DB
+Upload it to the raspberry pi
+Write the blog tutorial for it all for the site
+	first make sure you get the site working under your command with git
+Work on the front end webpage that allows you to add a user to the list
+	will probably need to alter the functions in it
+
+
+
+
+
